@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**GibsonC139/GibsonC139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header" />
 
-Here are some ideas to get you started:
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`C139| low-level development & reverse engineering`
+
+---
+
+### Tech Stack
+
+**Frontend**
+`JavaScript` • `TypeScript` • `Astro` • `Vue` • `React`
+
+**Backend & Database**
+`Python` &ensp;•&ensp; `Ruby` &ensp;•&ensp; `NodeJS` &ensp;•&ensp; `PHP` &ensp;•&ensp; `MySQL` &ensp;•&ensp; `SQLite`
+
+**Low-Level**
+`Rust` &ensp;•&ensp; `C`
+
+---
+
+### Core Focus
+Minimalist UI/UX design  
+Software protection & obfuscation  
+Low-level research & development
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" />
+
+</div>
